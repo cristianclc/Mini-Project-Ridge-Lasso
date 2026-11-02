@@ -9,6 +9,8 @@ Este proyecto tiene como objetivo analizar y modelar el mercado de vehículos us
 
 El enfoque incluye un flujo completo de ciencia de datos: desde la adquisición y procesamiento de datos hasta la construcción, optimización y evaluación de modelos.
 
+**Notebook**: https://cristianclc.github.io/Mini-Project-Ridge-Lasso/introduccion.html
+
 ## Colaboradores
 
 - Cristian Camilo Linero Cantillo (https://github.com/cristianclc)
